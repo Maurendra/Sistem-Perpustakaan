@@ -1,0 +1,64 @@
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ItemForm.resources
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageItemsForm.resources
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MemberForm.resources
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RentForm.resources
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MAURENDRA\source\repos\[repost]Project Pra UTS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HalamanAwal.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HalamanAwal.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ItemForm.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageItemsForm.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MemberForm.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RentForm.resources
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Global Store\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HalamanAwal.resources
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ItemForm.resources
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageItemsForm.resources
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MemberForm.resources
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RentForm.resources
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Tri Purwanti\source\repos\PPK_FINAL\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
